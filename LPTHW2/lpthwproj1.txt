@@ -1,3 +1,11 @@
+Agenda:
+
+1) Questions?
+2) Split into project groups
+3) Work on projects for an hour?
+4) Ask for four volunteers from different groups to present each project
+5) Review existing code that uses these concepts
+
 # PROJECT 1
 # Ask user for file name
 # Check to see if file exists
