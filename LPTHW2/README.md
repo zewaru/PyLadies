@@ -11,14 +11,14 @@ AGENDA
 1. Ask user for file name
 2. Check to see if file exists
 3. If file currently exists, allow the user to cancel out
-4. Define a function that takes in a file name and writes a file to that name. Put whatever you want in the file.
+4. Define a function that takes in a file name and writes a file to that name. Put whatever you want in the file.<br />
 *Extra Challenge:* Use string formatters
 
 
 # PROJECT 2
 1. Fill in the body of the function definition for cat_n_times so that it will print the string, s, n times:
  
-	def cat_n_times(s, n):
+	def cat_n_times(s, n):<br />
 		\<fill in your code here\>
 
 2. Save this function in a script named import_test.py. Now at a unix prompt, make sure you are in the same directory where the import_test.py is located ( ls should show import_test.py). Start a Python shell and try the following:
