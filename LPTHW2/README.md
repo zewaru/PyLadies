@@ -23,8 +23,8 @@ Agenda:
 
 2. Save this function in a script named import_test.py. Now at a unix prompt, make sure you are in the same directory where the import_test.py is located ( ls should show import_test.py). Start a Python shell and try the following:
  
-	>>> from import_test import *
-	>>> cat_n_times('Spam', 7)
+	>>> from import_test import *<br />
+	>>> cat_n_times('Spam', 7)<br />
 	SpamSpamSpamSpamSpamSpamSpam
 
 If all is well, your session should work the same as this one. Experiment with other calls to cat_n_times until you feel comfortable with how it works.
